@@ -1,0 +1,4 @@
+assorted scripts from David, plus one for running the grids just doing:
+bsub -R "pool>30000" -q 1nw -J job1 < templateGrid.csh
+
+
